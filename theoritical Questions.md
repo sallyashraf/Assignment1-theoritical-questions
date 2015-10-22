@@ -26,7 +26,7 @@ of class requirements.
 This example use char arrays to hold the character data, but you could use string
 class objects instead.
 
-// #include <cstring>
+// #include < cstring >
 
 // class definition
 
@@ -109,9 +109,9 @@ declare arrays.
 
 // stock30.h
 
-#ifndef STOCK30_H_
+// #ifndef STOCK30_H_
 
-#define STOCK30_H_
+// #define STOCK30_H_
 
 class Stock
 
