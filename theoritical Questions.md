@@ -97,6 +97,7 @@ acctnum = num;
 
 balance = bal;
 }
+
 Keep in mind that default arguments go in the prototype, not in the function definition.
 
 #Q8) 
